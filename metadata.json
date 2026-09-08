@@ -1,0 +1,6 @@
+{
+  "name": "YesOkLab 크립토 규제·파생시장 리서치 브리핑",
+  "description": "미 의회 하원 일정 실종과 클레리티 법안 지연, CFTC DCM 선물 옆문 전략, 슈퍼팩(Fairshake) 정치 자금, 4대 파생 거래소(비트노미얼·칼시·코인베이스·CME) 및 제도권 장부 등재 코인 심층 분석 리포트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
